@@ -1,2 +1,2 @@
 # demo
-this s a demo for git and github 
+this s a demo for git and github class.
