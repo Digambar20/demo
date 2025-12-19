@@ -2,4 +2,4 @@
 this s a demo for git and github class.
 
 # Teacher
-digambar
+digambar Khekade
